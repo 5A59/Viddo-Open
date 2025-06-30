@@ -1,0 +1,47 @@
+{
+  "processedAt": "2025-06-30T03:08:16.911Z",
+  "totalVideos": 4,
+  "successCount": 4,
+  "failedCount": 0,
+  "successRate": "100.00%",
+  "processedVideos": [
+    {
+      "url": "https://www.youtube.com/watch?v=vRZexHISLxs",
+      "taskId": "2c365f1d-f43d-4911-bdd2-a8a31e56b4e3",
+      "status": "completed"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=rYpN4FArM4M",
+      "taskId": "2773550e-ffda-4496-acc2-6facc3c13e94",
+      "status": "completed"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=WAOvaeeD9-Q",
+      "taskId": "8ea4c77b-8bac-4647-aa80-57ae1722c872",
+      "status": "completed"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=zFAUC14vzCg",
+      "taskId": "5f1241fd-9975-4053-ab30-36559de58f3b",
+      "status": "completed"
+    }
+  ],
+  "failedVideos": [],
+  "languages": [
+    "de",
+    "en",
+    "es",
+    "fr",
+    "hi",
+    "id",
+    "ja",
+    "ko",
+    "pt",
+    "ru",
+    "th",
+    "tr",
+    "vi",
+    "zh"
+  ],
+  "outputDirectory": "../../Viddo-Open/blog"
+}
