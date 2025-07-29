@@ -1,7 +1,6 @@
 # ✍️ Viddo-Open
 
-**🌍 多语言版本 | Multi-language Versions:**
-- [🇨🇳 中文简体](README.md) | [🇹🇼 繁體中文](readme/README.zh-TW.md) | [🇺🇸 English](readme/README.en.md) | [🇩🇪 Deutsch](readme/README.de.md) | [🇪🇸 Español](readme/README.es.md) | [🇫🇷 Français](readme/README.fr.md) | [🇮🇳 हिंदी](readme/README.hi.md) | [🇮🇩 Bahasa Indonesia](readme/README.id.md) | [🇯🇵 日本語](readme/README.ja.md) | [🇰🇷 한국어](readme/README.ko.md) | [🇵🇹 Português](readme/README.pt.md) | [🇷🇺 Русский](readme/README.ru.md) | [🇹🇭 ไทย](readme/README.th.md) | [🇹🇷 Türkçe](readme/README.tr.md) | [🇻🇳 Tiếng Việt](readme/README.vi.md)
+[🇨🇳 中文简体](README.md) | [🇹🇼 繁體中文](readme/README.zh-TW.md) | [🇺🇸 English](readme/README.en.md) | [🇩🇪 Deutsch](readme/README.de.md) | [🇪🇸 Español](readme/README.es.md) | [🇫🇷 Français](readme/README.fr.md) | [🇮🇳 हिंदी](readme/README.hi.md) | [🇮🇩 Bahasa Indonesia](readme/README.id.md) | [🇯🇵 日本語](readme/README.ja.md) | [🇰🇷 한국어](readme/README.ko.md) | [🇵🇹 Português](readme/README.pt.md) | [🇷🇺 Русский](readme/README.ru.md) | [🇹🇭 ไทย](readme/README.th.md) | [🇹🇷 Türkçe](readme/README.tr.md) | [🇻🇳 Tiếng Việt](readme/README.vi.md)
 
 > **用阅读的速度，追完世界的精彩视频**  
 > 这里是一座不断扩张的内容仓库：  
